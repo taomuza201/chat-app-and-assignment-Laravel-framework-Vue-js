@@ -1,10 +1,10 @@
 # chat app and  assignment
  chat app and  assignment
-  =>login and register
-  =>แชทส่วนตัว
-  =>แชทกลุ่ม
-  =>ระบบสั่งงานและติดตามงาน
-  => ฯลฯ
+ =>login and register
+ =>แชทส่วนตัว
+ =>แชทกลุ่ม
+ =>ระบบสั่งงานและติดตามงาน
+=> ฯลฯ
   
 
 ## get it up and running.
